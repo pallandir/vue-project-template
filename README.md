@@ -20,15 +20,13 @@
   </p>
 </div>
 
-## About This template
+## About this template
 
 Starting a new project can be a slog, it’s easy to lose the fun of building something awesome when you’re stuck setting up the basics. As a developer, you should be focusing on what really matters: writing great code and bringing your ideas to life. That’s why this Vue.js template exists—to make your life easier and give you a flexible starting point for your work.
 
 There are tons of ways to structure a frontend project, but this one keeps it simple and modular. It comes with the essentials—store, router, and views—all set up and ready to go. Want to turn it into a Domain-Driven Design (DDD) or a clean architecture? Go for it! The foundation is here; the rest is up to you.
 
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
-
-### Built With
+### Built with
 
 This template is built in 2025 with the latest versions of `Vue js`, `Vite`, `Typescript` and `Vue-router`.
 It also includes a UI library called `PrimeVue` and a setup for treeshaking and dynamic icons using <a href="https://github.com/unplugin/unplugin-icons">`unplugin-icons`</a> and <a href="https://iconify.design/">`Iconify`</a>.
@@ -46,7 +44,7 @@ Here is a list of all technologies used.
 
 <!-- GETTING STARTED -->
 
-## Getting Started
+## Getting started
 
 To start a new project you just have to clone this repository.
 
@@ -84,7 +82,7 @@ npm run dev
 
 ## License
 
-This template is under `GNU General Public License v3.0` license
+This template is under `GNU General Public License v3.0` license.
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -92,7 +90,7 @@ This template is under `GNU General Public License v3.0` license
 
 ## Acknowledgments
 
-You can find here many documentation links to help you start with your project
+You can find here many documentation links to help you start with your project.
 
 - [Img Shields](https://shields.io)
 - [PrimeVue](https://primevue.org/vite)
