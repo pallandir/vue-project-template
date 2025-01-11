@@ -72,7 +72,7 @@ npm run dev
 ## Roadmap
 
 - [ ] Add better Axios integration
-- [ ] Add template of Pinia store
+- [x] Add template of Pinia store
 - [ ] Add default landing page
 - [ ] Add more documentation links
 
