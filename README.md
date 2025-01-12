@@ -22,9 +22,9 @@
 
 ## About this template
 
-Starting a new project can be a slog, it’s easy to lose the fun of building something awesome when you’re stuck setting up the basics. As a developer, you should be focusing on what really matters: writing great code and bringing your ideas to life. That’s why this Vue.js template exists—to make your life easier and give you a flexible starting point for your work.
+Starting a new project can be a slog, it’s easy to lose the fun of building something awesome when you’re stuck setting up the basics. As a developer, you should be focusing on what really matters: writing great code and bringing your ideas to life. That’s why this Vue.js template exists to make your life easier and give you a flexible starting point for your work.
 
-There are tons of ways to structure a frontend project, but this one keeps it simple and modular. It comes with the essentials—store, router, and views—all set up and ready to go. Want to turn it into a Domain-Driven Design (DDD) or a clean architecture? Go for it! The foundation is here; the rest is up to you.
+There are tons of ways to structure a frontend project, but this one keeps it simple and modular. It comes with the essentials store, router, and views all set up and ready to go. Want to turn it into a Domain-Driven Design (DDD) or a clean architecture? Go for it! The foundation is here; the rest is up to you.
 
 ### Built with
 
@@ -75,6 +75,7 @@ npm run dev
 - [x] Add template of Pinia store
 - [ ] Add default landing page
 - [ ] Add more documentation links
+- [ ] Add tailwind support
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
