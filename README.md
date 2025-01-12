@@ -75,7 +75,7 @@ npm run dev
 - [x] Add template of Pinia store
 - [ ] Add default landing page
 - [ ] Add more documentation links
-- [ ] Add tailwind support
+- [x] Add tailwind support
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
