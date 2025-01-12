@@ -73,7 +73,7 @@ npm run dev
 
 - [ ] Add better Axios integration
 - [x] Add template of Pinia store
-- [ ] Add default landing page
+- [x] Add default landing page
 - [ ] Add more documentation links
 - [x] Add tailwind support
 
