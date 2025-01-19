@@ -20,7 +20,7 @@
   </p>
 </div>
 
-## About this template
+## About this project
 
 Starting a new project can be a slog, it’s easy to lose the fun of building something awesome when you’re stuck setting up the basics. As a developer, you should be focusing on what really matters: writing great code and bringing your ideas to life. That’s why this Vue.js template exists to make your life easier and give you a flexible starting point for your work.
 
