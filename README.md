@@ -5,7 +5,7 @@
 <!-- PROJECT LOGO -->
 <br />
 <div align="center">
-<a href="https://leetcode.com/problems/two-sum/description/">
+<a href="https://vite.dev/">
     <img src="./public/vite.svg" alt="Logo" width="80" height="80">
   </a>
   <h3 align="center">Vue project template</h3>
