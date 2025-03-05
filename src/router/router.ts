@@ -1,3 +1,4 @@
+import Dashboard from "@/layouts/Dashboard.vue";
 import { createRouter, createWebHistory } from "vue-router";
 
 const router = createRouter({
@@ -7,6 +8,7 @@ const router = createRouter({
       path: "/",
       name: "landing_page",
       component: () => import("@/views/LandingPage.vue"),
+      meta: { layout: Dashboard },
     },
     {
       path: "/home",
