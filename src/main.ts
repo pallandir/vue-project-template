@@ -3,7 +3,7 @@ import { createPinia } from "pinia";
 import App from "./App.vue";
 import router from "./router/router";
 import PrimeVue from "primevue/config";
-import Lara from "@primevue/themes/lara";
+import Aura from "@primeuix/themes/aura";
 import ToastService from "primevue/toastservice";
 import "./styles/main.css";
 
@@ -12,7 +12,7 @@ const app = createApp(App);
 app.use(pinia);
 app.use(PrimeVue, {
   theme: {
-    preset: Lara,
+    preset: Aura,
 
     options: {
       darkModeSelector: "system",
