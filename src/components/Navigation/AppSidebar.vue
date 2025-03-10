@@ -8,7 +8,7 @@
     >
       <template #start>
         <span class="flex items-center justify-center gap-1 px-2 py-2">
-          <img src="../../assets/logo.svg" class="size-7" />
+          <img src="../../assets/vue.svg" class="size-7" />
           <span class="text-xl font-semibold">Project</span>
         </span>
         <Divider class="m-px" />

@@ -1,6 +1,6 @@
 <template>
   <div>
     <MdiHome />
-    <h2>Home</h2>
+    <h2>Default layout home</h2>
   </div>
 </template>

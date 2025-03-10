@@ -10,7 +10,7 @@
         </p>
         <p class="m-1">
           I also added some layout so you can have a demonstration on how it
-          works, just type /dashboard to see.
+          works, just go through the sidebar items to see it in action.
         </p>
       </template>
       <template #footer>
