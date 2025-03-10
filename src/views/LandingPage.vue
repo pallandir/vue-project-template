@@ -1,5 +1,5 @@
 <template>
-  <div class="flex items-center justify-center w-full">
+  <div class="flex items-center justify-center w-full h-full">
     <Card class="min-w-80 w-1/4 h-fit">
       <template #subtitle>Welcome on this template</template>
       <template #content>
