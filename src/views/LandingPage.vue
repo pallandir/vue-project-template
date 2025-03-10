@@ -3,12 +3,12 @@
     <Card class="min-w-80 w-1/4 h-fit">
       <template #subtitle>Welcome on this template</template>
       <template #content>
-        <p class="m-1">I configured all it takes for a vue project to run.</p>
-        <p class="m-1">
+        <p class="mb-3">I configured all it takes for a vue project to run.</p>
+        <p class="mb-3">
           Feel free to delete this page, Home.vue and About.vue, they are only
           used to showcase the router and some base of PrimeVue.
         </p>
-        <p class="m-1">
+        <p>
           I also added some layout so you can have a demonstration on how it
           works, just go through the sidebar items to see it in action.
         </p>
