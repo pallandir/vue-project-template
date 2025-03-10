@@ -10,13 +10,13 @@ import tailwindcss from "@tailwindcss/vite";
 export default defineConfig({
   plugins: [
     vue(),
-    tailwindcss(),
     Components({
       resolvers: [PrimeVueResolver()],
     }),
     Icons({
       compiler: "vue3",
     }),
+    tailwindcss(),
   ],
   resolve: {
     alias: [
