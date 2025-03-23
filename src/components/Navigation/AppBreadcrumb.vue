@@ -33,12 +33,16 @@ const items = ref<object[]>([]);
 
 watch(
   () => ({
-    path: route.path,
-    name: route.name,
+    matched: route.matched,
   }),
   (newRoute, _) => {
     items.value = [];
-    items.value.push({ label: newRoute.name, route: newRoute.path });
+    newRoute.matched.forEach((route) => {
+      let breadcrumbObj = { label: route.name, route: route.path };
+      if (!items.value.includes(breadcrumbObj)) {
+        items.value.push(breadcrumbObj);
+      }
+    });
   },
   { immediate: true }
 );
